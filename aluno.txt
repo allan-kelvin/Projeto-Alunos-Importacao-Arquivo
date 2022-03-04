@@ -1,0 +1,6 @@
+1,Gui Gui,10.00
+2,Fabiano Silveira,8.00
+3,Marcello das Neves,7.5
+4,Bazunga,8.65
+5,Marculino,7.78
+6,Pamella Tagarela,3.75
